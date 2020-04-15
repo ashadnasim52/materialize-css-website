@@ -1,0 +1,17 @@
+.nav-wrapper {
+	background-color: #6f4036;
+}
+.slider .indicators .indicator-item.active {
+	background-color: rgb(116, 112, 112);
+}
+
+.parallax-container {
+	height: auto;
+	min-height: 280px;
+}
+.color-coffee {
+	color: #ffffff;
+}
+.bgCoffee {
+	background-color: #6f4036;
+}
